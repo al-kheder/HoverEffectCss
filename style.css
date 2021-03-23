@@ -1,0 +1,14 @@
+div{
+    width: 300px;
+    height: 250px;
+    background: #363694;
+    margin:50px auto;
+border-radius: 15px;
+transition: all ease 3s;
+}
+
+div:hover{
+border-radius: 50%;
+background: #ccc;
+box-shadow: 5px 5px 10px #ff7fcb , -5px -5px 10px #0ccbfc;
+}
